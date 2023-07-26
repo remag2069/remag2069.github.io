@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Tech. in Artificial Intelligence & Data Science, CMINDS, IIT Bombay, 2023
+* B.Tech. in Environmental Engineering, IIT Bombay, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <b>AI Fitness Trainer Intern</b> | Yoga Guru
+  * Developed pose estimation and correction model to capture,evaluate and provide feedback on user performance
+  * Designed a 3D pose differentiation algorithm that accounts for time-dilation using Dynamic Time Wrapping
+  * Developed a generalized scoring mechanism and a live feedback mechanism, to ensure forward compatibility
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <b>ML Research Intern</b> | Shunya OS
+  * Engineering Research Centre, Tata Motors Limited, Pune.
+  * Appplication Engieering and vehicle evaluation
+  * Thermal analysis of brakes
+
+* <b>Effluent Treatment Plant Consulting Intern</b> | BPCL
+  * Collected data about the existing ETP and calculated its efficacy and compliance with national standards
+  * Identified points of failures and ranked them on their latent potential in improving the system performance
+  * Recommended key system modifications to overcome the flaws and reported their feasibility and ROI estimates
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -42,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +52,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+Technical Skills
+======
+
+| <b>Programming languages</b> |                <b>Python, C++, Matlab, JavaScript</b>               |
+|   <b>Software Libraries</b>  |       <b>PyTorch, TensorFlow, Keras, Caffe</b>       |
+| <b>Miscellaneous</b>         |           <b>Git, Docker, Shell Scripting, MySQL, AutoCAD, Unity</b>        |
