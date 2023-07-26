@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my page :)"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,6 +21,5 @@ redirect_from:
 
 <h2>Recent Updates </h2> 
 
-------
 
 1. Our paper titled "Resource-efficient image inpainting" has been accepted in ICLR 2023 TinyPapers . 

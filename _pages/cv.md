@@ -16,17 +16,17 @@ Education
 
 Work experience
 ======
-* <b>AI Fitness Trainer Intern</b> | Yoga Guru
+* <b>AI Fitness Trainer Intern</b> -- Yoga Guru
   * Developed pose estimation and correction model to capture,evaluate and provide feedback on user performance
   * Designed a 3D pose differentiation algorithm that accounts for time-dilation using Dynamic Time Wrapping
   * Developed a generalized scoring mechanism and a live feedback mechanism, to ensure forward compatibility
 
-* <b>ML Research Intern</b> | Shunya OS
+* <b>ML Research Intern</b> -- Shunya OS
   * Engineering Research Centre, Tata Motors Limited, Pune.
   * Appplication Engieering and vehicle evaluation
   * Thermal analysis of brakes
 
-* <b>Effluent Treatment Plant Consulting Intern</b> | BPCL
+* <b>Effluent Treatment Plant Consulting Intern</b> -- BPCL
   * Collected data about the existing ETP and calculated its efficacy and compliance with national standards
   * Identified points of failures and ranked them on their latent potential in improving the system performance
   * Recommended key system modifications to overcome the flaws and reported their feasibility and ROI estimates
