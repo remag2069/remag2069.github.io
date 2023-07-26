@@ -1,9 +1,9 @@
 ---
 title: "Source apportionment using particle number size distribution"
 collection: publications
-permalink: /publication/SA_PNSD
+permalink: /publication/SAPNSD
 excerpt: 'A novel approach to source apportionment utillizing particle number size distribution data (Yet to be submitted)'
-date: 
+date: 2023-07-01
 venue: 
 image: 
 width: 
